@@ -1,13 +1,14 @@
 # school-data
 Tools Yang Di Butuhkan untuk Menjalankan ini
 
-Xampp / Web Server Lainya
-Text Editor
-Web Browser
+1.Xampp / Web Server Lainya
+2.Text Editor
+3.Web Browser
+
 Cara Menjalankan Lewat Xampp
 
-Aktifan Apache & Mysql Dengan klik Start
-Buka Web browser lalu masuk ke localhost/phpmyadmin
-Import Database yang yaitu pendidikan.sql
-ketiikan localhost/namafolder/
-Login Dengan akun yang ada email : nanna@gmail.com password : nanna
+1.Aktifan Apache & Mysql Dengan klik Start
+2.Buka Web browser lalu masuk ke localhost/phpmyadmin
+3.Import Database yang yaitu pendidikan.sql
+4.ketiikan localhost/namafolder/
+5.Login Dengan akun yang ada email : nanna@gmail.com password : nanna123
