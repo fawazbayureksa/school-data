@@ -11,5 +11,5 @@ Cara Menjalankan Lewat Xampp
   3. Import Database yang yaitu pendidikan.sql
   4. ketiikan localhost/namafolder/
   5. Login Dengan akun yang ada
-      email : nanna#gmail.com
+      email : nanna@gmail.com
       password : nanna
